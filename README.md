@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo of AuroraStack, A beacon of light in the dark night](./docs/aurorastack_logo.jpeg)
+![Logo of AuroraStack, A beacon of light in the dark night](./docs/aurorastack_logo.png)
 
 # **AuroraStack**
 
