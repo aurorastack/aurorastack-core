@@ -1,6 +1,6 @@
 import unittest
 
-from spaceone.core import utils
+from aurorastack.core import utils
 
 
 class TestUtils(unittest.TestCase):

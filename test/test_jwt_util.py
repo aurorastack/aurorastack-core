@@ -1,5 +1,5 @@
 import unittest
-from spaceone.core.auth.jwt.jwt_util import JWTUtil
+from aurorastack.core.auth.jwt.jwt_util import JWTUtil
 
 
 class TestJWTUtil(unittest.TestCase):

@@ -1,7 +1,7 @@
 import unittest
 
-from spaceone.core.auth.jwt import JWTAuthenticator, JWTUtil
-from spaceone.core.error import ERROR_AUTHENTICATE_FAILURE
+from aurorastack.core.auth.jwt import JWTAuthenticator, JWTUtil
+from aurorastack.core.error import ERROR_AUTHENTICATE_FAILURE
 
 
 class TestJWTAuthenticator(unittest.TestCase):

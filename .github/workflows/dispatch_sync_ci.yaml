@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
 
 env:
-  REPO: cloudforet-io/actions
+  REPO: aurorastack/actions
   WORKFLOW_NAME: dispatch_apply_workflows.yaml
 
 jobs:
   owner_check:
-    if: github.repository_owner == 'cloudforet-io'
+    if: github.repository_owner == 'aurorastack'
     runs-on: ubuntu-latest
     steps:
       - run: echo ${{ github.repository_owner }}
