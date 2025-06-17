@@ -28,7 +28,7 @@ classifiers = [
 ]
 dependencies = [
         # grpc packages
-        'protobuf==3.*',
+        'protobuf>=3,<7',
         # 'grpcio',
         'grpcio-reflection',
         'google-api-core',
